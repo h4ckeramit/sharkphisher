@@ -1,13 +1,13 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ##############################################
 #                                            #
-#             PROJECT: SHARK                 #
-#             AUTHOR: ASHISH                 #
+#           PROJECT: SHARKPHISHER            #
+#            AUTHOR: H4CKKERAMIT             #
 #              SHARK ©2020                   #
-#     EMAIL: ashishsingh103020@gmail.com     #
+#        EMAIL: h4ckeramitgmail.com          #
 #           BEST PHISHING TOOLS              #
 #            CREDIT: Darksec                 #
-#       created by :- a s h i s h            #
+#         created by :- H4CKERAMIT           #
 #                                            #
 ##############################################
 
@@ -16,7 +16,7 @@ clear
 echo ""
 echo ""
 echo -e "\e[32m                ============================================\e[m "
-echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Follow us on youtube:bhaviktutorials\e[31m [\e[32m★\e[31m]\e[m "
+echo -e "\e[31m                [\e[32m★\e[31m]\e[93m Follow us on Instagram:h4ckeramit\e[31m [\e[32m★\e[31m]\e[m "
 echo -e "\e[32m                ============================================\e[m " 
 
 # check the internet connectivity 
@@ -188,7 +188,7 @@ echo -e "\e[94m
 
 echo 
 echo -e $'\e[1;32m        =======================================           \e[0m'
-echo -e $'\e[1;93m           c r e a t e d  b y  a s h i s h                \e[0m '
+echo -e $'\e[1;93m                 CREATED BY H4CKERAMIT                    \e[0m '
 echo -e $'\e[1;32m        =======================================           \e[0m '
 echo 
 banner(){
