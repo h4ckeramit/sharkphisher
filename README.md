@@ -7,9 +7,9 @@
 <p align="center">Future of Phishing is here
 <p align="center">
 
-<a href="https://github.com/h4ckeramit"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+ <a href="https://github.com/h4ckeramit"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
  <a href="https://github.com/h4ckeramit/sharkphisher"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
-<a href="https://github.com/h4ckeramit"><img title="GitHub version" src="https://img.shields.io/github/license/h4ckeramit/sharkphisher?color=Brightgree" ></a>
+ <a href="https://github.com/h4ckeramit"><img title="GitHub version" src="https://img.shields.io/github/license/h4ckeramit/sharkphisher?color=Brightgree" ></a>
  <a href="https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-H4CKERAMIT-green"/></a>
  <a href="https://instagram.com/h4ckeramit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-h4ckeramit-ff69b4"/></a>
  <a href="https://github.com/h4ckeramit"><img title="Stars" src="https://img.shields.io/github/stars/h4ckeramit/sharkphisher?style=social" ></a>
