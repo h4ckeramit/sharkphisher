@@ -1,26 +1,26 @@
 <p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg"> </a>
 
-# <p align="center">Shark
+# <p align="center">Sharkphisher
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64035221/92106331-df7b5000-ee01-11ea-9f16-c0a62a027b27.jpg">
 </p>
 <p align="center">Future of Phishing is here
 <p align="center">
-<a href="https://github.com/Bhaviktutorials"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
- <a href="https://paypal.me/bhavikoza"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
- <a href="https://github.com/Bhaviktutorials/shark"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
-<a href="https://github.com/Bhaviktutorials"><img title="GitHub version" src="https://img.shields.io/github/license/Bhaviktutorials/T-Remix?color=Brightgree" ></a>
- <a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
- <a href="https://instagram.com/bhavik_tutorials"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Bhavik_Tutorials-ff69b4"/></a>
- <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
+<a href="https://github.com/h4ckeramit"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+
+ <a href="https://github.com/h4ckeramit/sharkphisher"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.0.0&x2=0" ></a>
+<a href="https://github.com/h4ckeramit"><img title="GitHub version" src="https://img.shields.io/github/license/h4ckeramit/sharkphisher?color=Brightgree" ></a>
+ <a href="https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-H4CKERAMIT-green"/></a>
+ <a href="https://instagram.com/h4ckeramit"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-h4ckeramit-ff69b4"/></a>
+ <a href="https://github.com/h4ckeramit"><img title="Stars" src="https://img.shields.io/github/stars/h4ckeramit/sharkphisher?style=social" ></a>
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+###### <p align="center"> *[**@h4ckeramit**](https://www.instagram.com/h4ckeramit/) ❤️*
+###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w)✌*
 ---
   
-## What is Shark??
+## What is Sharkphisher??
   
 Shark is a tool that will help you do Phishing in advance way so no one check and identify that you are you doing phishing.
 For those guys who Doesn't know about Phishing let me explain "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site."
@@ -29,11 +29,11 @@ we guys have add a feature of custom link so the normal link of ngrok that will 
 That way no one will caught that you are phishing
 Hope you guys like this Project,then dont forget to give it a like.
   
-## Installation of Shark :- 
+## Installation of Sharkphisher :- 
   
 ### YouTube Tutorials :- 
 
-##### https://www.youtube.com/watch?v=_OWkSxIzTTg&t=8s
+##### https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w
 
 ### * `Commands` for termux :-
 ```
@@ -41,11 +41,11 @@ $ termux-setup-storage
 
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/shark
+$ git clone https://github.com/h4ckeramit/sharkphisher
 
 $ ls
 
-$ cd shark
+$ cd sharkphisher
 
 $ ls
 
@@ -60,15 +60,15 @@ $ shark
 ```
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/shark && cd shark && chmod +x * && ./setup
+$ git clone https://github.com/h4ckeramit/sharkphisher && cd sharkphisher && chmod +x * && ./setup
 
 $ shark
 ```
 ### * `Commands` for Kali-Linux :-
 ```
-$ git clone https://github.com/Bhaviktutorials/shark
+$ git clone https://github.com/h4ckeramit/sharkphisher
 
-$ cd shark
+$ cd sharkphisher
 
 $ chmod +x *
 
@@ -87,19 +87,17 @@ $ shark
 
 ## Development by :- 
 
-## Developer / Author: Ashish / [Bhavik Oza](https://github.com/Bhaviktutorials/)
+## Developer / / [H4CKERAMIT](https://github.com/h4ckeramit/)
 
-## Company: [Bhavik Tutorials](https://www.youtube.com/bhaviktutorials)
+## Company: [H4CKERAMIT](https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w)
 
 ## Credit :-
 
-### [DarkSecDevelopers HTML Code](https://github.com/DarkSecDevelopers)
-
-### [jaykali](https://github.com/jaykali)
-
+### 
+### 
 
 
 ## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:-
 
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/Bhaviktutorials/)
-[![Youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)](<img src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" width="200" alt="youtube logo png images" />)
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/h4ckeramit/)
+[![Youtube](https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w)](<img src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" width="200" alt="youtube logo png images" />)
